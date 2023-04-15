@@ -1,3 +1,5 @@
+> This SDK is currently under active development.
+
 # ChatBotKit Ruby SDK
 
 ## Installation
